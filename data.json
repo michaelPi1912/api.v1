@@ -6,7 +6,16 @@
       "to": "Hà Nội",
       "type": "Ghế Phổ Thông",
       "price": 900000,
-      "time": "1:30",
+      "time": "22:30",
+      "airline": "Vietjet Air"
+    },{
+      "id": "63a3d29ebbd12c9b06a40f1d",
+      "date": "1/1/2023",
+      "from": "TP.HCM",
+      "to": "Hà Nội",
+      "type": "Ghế Phổ Thông",
+      "price": 900000,
+      "time": "22:30",
       "airline": "Vietjet Air"
     },{
       "id": "63a3e2d4bbd12c9b06a40f1e",
@@ -56,10 +65,10 @@
     },{
       "id":  "63a3ec2dbbd12c9b06a40f23",
       "from": "TP.HCM",
-      "to ": "Vinh",
+      "to": "Vinh",
       "date": "2/1/2023",
       "type": "Phổ Thông Đặc Biệt",
-      "price ": 1450920,
+      "price": 1450920,
       "time": "6:45",
       "airline": "Bamboo Airways"
     },{
@@ -111,15 +120,15 @@
       "id": "63a4fe5fc3b4963603a00bfe",
       "date": "9/2/2023",
       "from": "TP.HCM",
-      "to ": "Đà Nẵng",
-      "type ": "Thương Gia",
+      "to": "Đà Nẵng",
+      "type": "Thương Gia",
       "price": 591000,
       "time": "9:00",
       "airline": "Bamboo Airways"
     },{
       "id": "63a4fed5c3b4963603a00bff",
       "date": "26/12/2022",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Vinh",
       "type": "Thương Gia",
       "price": 613000,
@@ -137,7 +146,7 @@
     },{
       "id": "63a504c8c3b4963603a00c05",
       "date": "26/12/2022",
-      "from ": "Đà Nẵng",
+      "from": "Đà Nẵng",
       "to": "Nha Trang",
       "type": "Phổ Thông",
       "price": 1389000,
@@ -146,7 +155,7 @@
     },{
       "id": "63a50584c3b4963603a00c06",
       "date": "26/12/2022",
-      "from ": "Đà Nẵng",
+      "from": "Đà Nẵng",
       "to": "Nha Trang",
       "type": "Phổ Thông",
       "price": 1119000,
@@ -173,7 +182,7 @@
     },{
       "id": "63a507f7c3b4963603a00c09",
       "date": "6/1/2022",
-      "from ": "Đà Lạt",
+      "from": "Đà Lạt",
       "to": "Hà Nội",
       "type": "Phổ Thông",
       "price": 681920,
@@ -182,7 +191,7 @@
     },{
       "id": "63a50995c3b4963603a00c0a",
       "date": "26/12/2022",
-      "from ": "Đà Lạt",
+      "from": "Đà Lạt",
       "to": "Hà Nội",
       "type": "Thương Gia",
       "price": 1304400,
@@ -190,7 +199,7 @@
     },{
       "id": "63a50a55c3b4963603a00c0b",
       "date": "26/12/2022",
-      "from ": "Đà Lạt",
+      "from": "Đà Lạt",
       "to": "Hà Nội",
       "type": "Thương Gia",
       "price": 1861000,
@@ -198,7 +207,7 @@
     },{
       "id": "63a50a90c3b4963603a00c0c",
       "date": "25/1/2023",
-      "from ": "Phú Quốc",
+      "from": "Phú Quốc",
       "to": "Hà Nội",
       "type": "Thương Gia",
       "price": 3331000,
@@ -206,7 +215,7 @@
     },{
       "id": "63a50b89c3b4963603a00c0d",
       "date": "25/1/2023",
-      "from ": "Phú Quốc",
+      "from": "Phú Quốc",
       "to": "TP.HCM",
       "type": "Thương Gia",
       "price": 3331000,
@@ -222,7 +231,7 @@
     },{
       "id": "63a512a2c3b4963603a00c10",
       "date": "6/1/2022",
-      "from ": "Phú Quốc",
+      "from": "Phú Quốc",
       "to": "Hà Nội",
       "type": "Phổ Thông",
       "price": 3859000,
@@ -231,7 +240,7 @@
     },{
       "id": "63a512eec3b4963603a00c11",
       "date": "25/1/2022",
-      "from ": "Phú Quốc",
+      "from": "Phú Quốc",
       "to": "Hà Nội",
       "type": "Phổ Thông",
       "price": 3859000,
@@ -240,7 +249,7 @@
     },{
       "id": "63a5135ac3b4963603a00c13",
       "date": "25/1/2022",
-      "from ": "Phú Quốc",
+      "from": "Phú Quốc",
       "to": "Hà Nội",
       "type": "Thương Gia",
       "price": 4579000,
@@ -249,7 +258,7 @@
     },{
       "id": "63a514a2c3b4963603a00c15",
       "date": "6/1/2022",
-      "from ": "Phú Quốc",
+      "from": "Phú Quốc",
       "to": "Hà Nội",
       "type": "Phổ Thông",
       "price": 4579920,
@@ -258,7 +267,7 @@
     },{
       "id": "63a51610c3b4963603a00c17",
       "date": "25/1/2022",
-      "from ": "Phú Quốc",
+      "from": "Phú Quốc",
       "to": "Hà Nội",
       "type": "Thương Gia",
       "price": 4786000,
@@ -267,7 +276,7 @@
     },{
       "id": "63a5163dc3b4963603a00c18",
       "date": "18/1/2022",
-      "from ": "Phú Quốc",
+      "from": "Phú Quốc",
       "to": "Hà Nội",
       "type": "Thương Gia",
       "price": 4786000,
@@ -276,7 +285,7 @@
     },{
       "id": "63a5165ec3b4963603a00c19",
       "date": "25/1/2022",
-      "from ": "Phú Quốc",
+      "from": "Phú Quốc",
       "to": "Hà Nội",
       "type": "Thương Gia",
       "price": 4786000,
@@ -285,7 +294,7 @@
     },{
       "id": "63a516c0c3b4963603a00c1b",
       "date": "10/1/2022",
-      "from ": "Phú Quốc",
+      "from": "Phú Quốc",
       "to": "Hà Nội",
       "type": "Thương Gia",
       "price": 4786000,
@@ -294,7 +303,7 @@
     },{
       "id": "63a519cdc3b4963603a00c1d",
       "date": "22/2/2022",
-      "from ": "Đà Lạt",
+      "from": "Đà Lạt",
       "to": "Hà Nội",
       "type": "Phổ Thông",
       "price": 681920,
@@ -303,7 +312,7 @@
     },{
       "id": "63a519efc3b4963603a00c1e",
       "date": "16/2/2023",
-      "from ": "Nha Trang",
+      "from": "Nha Trang",
       "to": "Phú Quốc",
       "type": "Phổ Thông",
       "price": 2233000,
@@ -312,7 +321,7 @@
     },{
       "id": "63a51b7cc3b4963603a00c1f",
       "date": "16/2/2023",
-      "from ": "Nha Trang",
+      "from": "Nha Trang",
       "to": "Phú Quốc",
       "type": "Thương Gia",
       "price": 2233000,
@@ -321,7 +330,7 @@
     },{
       "id": "63a51c83c3b4963603a00c20",
       "date": "26/12/2022",
-      "from ": "Nha Trang",
+      "from": "Nha Trang",
       "to": "Phú Quốc",
       "type": "Thương Gia",
       "price": 2233000,
@@ -330,7 +339,7 @@
     },{
       "id": "63a51cd1c3b4963603a00c21",
       "date": "26/12/2022",
-      "from ": "Nha Trang",
+      "from": "Nha Trang",
       "to": "Phú Quốc",
       "type": "Thương Gia",
       "price": 2363000,
@@ -339,7 +348,7 @@
     },{
       "id": "63a51d11c3b4963603a00c22",
       "date": "26/12/2022",
-      "from ": "Nha Trang",
+      "from": "Nha Trang",
       "to": "Phú Quốc",
       "type": "Thương Gia",
       "price": 2441000,
@@ -348,7 +357,7 @@
     },{
       "id": "63a51d6ec3b4963603a00c23",
       "date": "26/12/2022",
-      "from ": "Nha Trang",
+      "from": "Nha Trang",
       "to": "Phú Quốc",
       "type": "Thương Gia",
       "price": 2518000,
@@ -357,7 +366,7 @@
     },{
       "id": "63a51e13c3b4963603a00c24",
       "date": "26/12/2022",
-      "from ": "Nha Trang",
+      "from": "Nha Trang",
       "to": "Phú Quốc",
       "type": "Hạng Nhất",
       "price": 2518000,
@@ -366,16 +375,16 @@
     },{
       "id": "63a51e8ac3b4963603a00c25",
       "date": "26/12/2022",
-      "from ": "Nha Trang",
+      "from": "Nha Trang",
       "to": "Phú Quốc",
       "type": "Hạng Nhất",
       "price": 4112000,
-      "time": "8:3",
+      "time": "8:30",
       "airline": "Bamboo Airways"
     },{
       "id": "63a51ec4c3b4963603a00c26",
       "date": "26/12/2022",
-      "from ": "Nha Trang",
+      "from": "Nha Trang",
       "to": "Phú Quốc",
       "type": "Hạng Nhất",
       "price": 3802000,
@@ -385,7 +394,7 @@
       "id": "63a51ef3c3b4963603a00c27",
       "date": "17/12/2023",
 
-      "from ": "Hà Nội",
+      "from": "Hà Nội",
       "to": "Nha Trang",
       "type": "Hạng Nhất",
       "price": 1511000,
@@ -394,7 +403,7 @@
     },{
       "id": "63a51fe1c3b4963603a00c28",
       "date": "20/12/2023",
-      "from ": "Hà Nội",
+      "from": "Hà Nội",
       "to": "Nha Trang",
       "type": "Hạng Nhất",
       "price": 1511000,
@@ -403,7 +412,7 @@
     },{
       "id": "63a52028c3b4963603a00c29",
       "date": "17/12/2023",
-      "from ": "Hà Nội",
+      "from": "Hà Nội",
       "to": "Nha Trang",
       "type": "Phổ Thông",
       "price": 1810000,
@@ -412,7 +421,7 @@
     },{
       "id": "63a520a5c3b4963603a00c2a",
       "date": "15/12/2023",
-      "from ": "Hà Nội",
+      "from": "Hà Nội",
       "to": "Nha Trang",
       "type": "Phổ Thông",
       "price": 1811000,
@@ -421,7 +430,7 @@
     },{
       "id": "63a520d4c3b4963603a00c2b",
       "date": "1/12/2023",
-      "from ": "Hà Nội",
+      "from": "Hà Nội",
       "to": "Nha Trang",
       "type": "Phổ Thông",
       "price": 1810000,
@@ -430,7 +439,7 @@
     },{
       "id": "63a6533b7c8ed3f607837e5e",
       "date": "2/2/2023",
-      "from ": "Đà Lạt",
+      "from": "Đà Lạt",
       "to": "Đà Nẵng",
       "type": "Hạng Nhất",
       "price": 1106000,
@@ -439,7 +448,7 @@
     },{
       "id": "63a653b67c8ed3f607837e5f",
       "date": "2/12/2023",
-      "from ": "Đà Lạt",
+      "from": "Đà Lạt",
       "to": "Đà Nẵng",
       "type": "Phổ Thông",
       "price": 1235000,
@@ -448,7 +457,7 @@
     },{
       "id": "63a653e27c8ed3f607837e60",
       "date": "1/2/2023",
-      "from ": "Đà Lạt",
+      "from": "Đà Lạt",
       "to": "Đà Nẵng",
       "type": "Phổ Thông",
       "price": 4267000,
@@ -457,7 +466,7 @@
     },{
       "id": "63a6542e7c8ed3f607837e61",
       "date": "1/2/2023",
-      "from ": "Đà Lạt",
+      "from": "Đà Lạt",
       "to": "Đà Nẵng",
       "type": "Thương Gia",
       "price": 4267000,
@@ -466,7 +475,7 @@
     },{
       "id": "63a654757c8ed3f607837e62",
       "date": "1/2/2023",
-      "from ": "Đà Lạt",
+      "from": "Đà Lạt",
       "to": "Đà Nẵng",
       "type": "Phổ Thông",
       "price": 4267000,
@@ -475,7 +484,7 @@
     },{
       "id": "63a6549f7c8ed3f607837e63",
       "date": "1/2/2023",
-      "from ": "Đà Lạt",
+      "from": "Đà Lạt",
       "to": "Đà Nẵng",
       "type": "Phổ Thông",
       "price": 5902000,
@@ -484,7 +493,7 @@
     },{
       "id": "63a654c07c8ed3f607837e64",
       "date": "1/2/2023",
-      "from ": "Đà Lạt",
+      "from": "Đà Lạt",
       "to": "Đà Nẵng",
       "type": "Thương Gia",
       "price": 5902000,
@@ -493,7 +502,7 @@
     },{
       "id": "63a654e87c8ed3f607837e65",
       "date": "1/2/2023",
-      "from ": "Đà Lạt",
+      "from": "Đà Lạt",
       "to": "Đà Nẵng",
       "type": "Hạng Nhất",
       "price": 4589000,
@@ -502,7 +511,7 @@
     },{
       "id": "63a655187c8ed3f607837e66",
       "date": "1/2/2023",
-      "from ": "Cà Mau",
+      "from": "Cà Mau",
       "to": "Thanh Hóa",
       "type": "Phổ Thông",
       "price": 3127000,
@@ -511,7 +520,7 @@
     },{
       "id": "63a655bd7c8ed3f607837e67",
       "date": "16/2/2023",
-      "from ": "Phú Quốc",
+      "from": "Phú Quốc",
       "to": "Cần Thơ",
       "type": "Phổ Thông",
       "price": 299000,
@@ -520,7 +529,7 @@
     },{
       "id": "63a656c17c8ed3f607837e68",
       "date": "1/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Phổ Thông",
       "price": 2237000,
@@ -529,7 +538,7 @@
     },{
       "id": "63a657517c8ed3f607837e69",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Phổ Thông",
       "price": 379000,
@@ -538,7 +547,7 @@
     },{
       "id": "63a658297c8ed3f607837e6a",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Phổ Thông",
       "price": 1486000,
@@ -547,7 +556,7 @@
     },{
       "id": "63a658787c8ed3f607837e6b",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Phổ Thông",
       "price": 1605000,
@@ -556,7 +565,7 @@
     },{
       "id": "63a658ae7c8ed3f607837e6c",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Hạng Nhất",
       "price": 1605000,
@@ -565,7 +574,7 @@
     },{
       "id": "63a658e07c8ed3f607837e6d",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Hạng Thương Gia",
       "price": 1138000,
@@ -574,7 +583,7 @@
     },{
       "id": "63a659077c8ed3f607837e6e",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Hạng Nhất",
       "price": 1224000,
@@ -583,7 +592,7 @@
     },{
       "id": "63a659277c8ed3f607837e6f",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Hạng Phổ Thông",
       "price": 1605000,
@@ -592,7 +601,7 @@
     },{
       "id": "63a659537c8ed3f607837e70",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Hạng Nhất",
       "price": 1224000,
@@ -601,7 +610,7 @@
     },{
       "id": "63a659807c8ed3f607837e71",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Hạng Nhất",
       "price": 1745000,
@@ -610,7 +619,7 @@
     },{
       "id": "63a659a87c8ed3f607837e72",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Phổ Thông",
       "price": 1745000,
@@ -619,7 +628,7 @@
     },{
       "id": "63a659ca7c8ed3f607837e73",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Hạng Nhất",
       "price": 1745000,
@@ -628,7 +637,7 @@
     },{
       "id": "63a659e77c8ed3f607837e74",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Hạng Nhất",
       "price": 1745000,
@@ -637,7 +646,7 @@
     },{
       "id": "63a65a377c8ed3f607837e75",
       "date": "2/1/2023",
-      "from ": "TP.HCM",
+      "from": "TP.HCM",
       "to": "Huế",
       "type": "Thương Gia",
       "price": 1875000,
@@ -646,7 +655,7 @@
     },{
       "id": "63a65a947c8ed3f607837e76",
       "date": "2/1/2023",
-      "from ": "Vinh",
+      "from": "Vinh",
       "to": "/TP.HCM",
       "type": "Thương Gia",
       "price": 1419000,
@@ -655,7 +664,7 @@
     },{
       "id": "63a65afa7c8ed3f607837e77",
       "date": "10/1/2023",
-      "from ": "Vinh",
+      "from": "Vinh",
       "to": "TP.HCM",
       "type": "Thương Gia",
       "price": 1443000,
@@ -664,7 +673,7 @@
     },{
       "id": "63a65b877c8ed3f607837e78",
       "date": "10/1/2023",
-      "from ": "Vinh",
+      "from": "Vinh",
       "to": "TP.HCM",
       "type": "Thương Gia",
       "price": 1523000,
@@ -673,7 +682,7 @@
     },{
       "id": "63a65bc67c8ed3f607837e7a",
       "date": "10/12/2023",
-      "from ": "Vinh",
+      "from": "Vinh",
       "to": "TP.HCM",
       "type": "Phổ Thông",
       "price": 4112000,
@@ -682,7 +691,7 @@
     },{
       "id": "63a65bf77c8ed3f607837e7b",
       "date": "10/12/2023",
-      "from ": "Vinh",
+      "from": "Vinh",
       "to": "TP.HCM",
       "type": "Phổ Thông",
       "price": 1419000,
@@ -691,7 +700,7 @@
     },{
       "id": "63a65c1a7c8ed3f607837e7c",
       "date": "10/12/2023",
-      "from ": "Vinh",
+      "from": "Vinh",
       "to": "TP.HCM",
       "type": "Hạng Nhất",
       "price": 4112000,
@@ -700,7 +709,7 @@
     },{
       "id": "63a65c437c8ed3f607837e7d",
       "date": "10/12/2023",
-      "from ": "Vinh",
+      "from": "Vinh",
       "to": "TP.HCM",
       "type": "Hạng Nhất",
       "price": 1142000,
@@ -709,7 +718,7 @@
     },{
       "id": "63a65c667c8ed3f607837e7e",
       "date": "10/12/2023",
-      "from ": "Vinh",
+      "from": "Vinh",
       "to": "TP.HCM",
       "type": "Hạng Nhất",
       "price": 1419000,
@@ -896,3 +905,4 @@
       "time": "15:45",
       "airline": "Vietnam Airlines"
     }]
+
