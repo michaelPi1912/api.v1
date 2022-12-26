@@ -10,7 +10,7 @@
       "airline": "Vietjet Air"
     },{
       "id": "63a3d29ebbd12c9b06a40f1d",
-      "date": "01/01/2023",
+      "date": "1/1/2023",
       "from": "TP.HCM",
       "to": "Hà Nội",
       "type": "Ghế Phổ Thông",
@@ -195,7 +195,8 @@
       "to": "Hà Nội",
       "type": "Thương Gia",
       "price": 1304400,
-      "time": "15:45"
+      "time": "15:45",
+      "airline": "Bamboo Airways"
     },{
       "id": "63a50a55c3b4963603a00c0b",
       "date": "26/12/2022",
@@ -203,7 +204,8 @@
       "to": "Hà Nội",
       "type": "Thương Gia",
       "price": 1861000,
-      "time": "10:45"
+      "time": "10:45",
+      "airline": "Bamboo Airways"
     },{
       "id": "63a50a90c3b4963603a00c0c",
       "date": "25/1/2023",
@@ -211,7 +213,8 @@
       "to": "Hà Nội",
       "type": "Thương Gia",
       "price": 3331000,
-      "time": "13:30"
+      "time": "13:30",
+      "airline": "Bamboo Airways"
     },{
       "id": "63a50b89c3b4963603a00c0d",
       "date": "25/1/2023",
@@ -219,7 +222,8 @@
       "to": "TP.HCM",
       "type": "Thương Gia",
       "price": 3331000,
-      "time": "13:30"
+      "time": "13:30",
+      "airline": "Bamboo Airways"
     },{
       "id": "63a50cf4c3b4963603a00c0f",
       "date": "5/1/2023",
@@ -227,7 +231,8 @@
       "to": "Hà Nội",
       "type": "Ghê Phổ Thông Đặc Biệt",
       "price": 1162920,
-      "time": "12:45"
+      "time": "12:45",
+      "airline": "Bamboo Airways"
     },{
       "id": "63a512a2c3b4963603a00c10",
       "date": "6/1/2022",
@@ -905,4 +910,3 @@
       "time": "15:45",
       "airline": "Vietnam Airlines"
     }]
-
