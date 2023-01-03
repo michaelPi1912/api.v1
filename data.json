@@ -1,7 +1,7 @@
 [
       {
       "id": "63a3d29ebbd12c9b06a40f1d",
-      "date": "01/01/2022",
+      "date": "04/01/2022",
       "from": "TP.HCM",
       "to": "Hà Nội",
       "type": "Ghế Phổ Thông",
@@ -10,7 +10,7 @@
       "airline": "Vietjet Air"
     },{
       "id": "64a3d29ebbd12c9b06a40f1d",
-      "date": "01/01/2022",
+      "date": "04/01/2022",
       "from": "TP.HCM",
       "to": "Hà Nội",
       "type": "Ghế Phổ Thông",
@@ -22,7 +22,7 @@
       "type": "Thương Gia",
       "date": "05/01/2023",
       "from": "TP.HCM",
-      "to": "Đà Nẵng",
+      "to": "Hà Nội",
       "price": 870000,
       "time": "9:00",
       "airline": "Vietjet Air"
@@ -31,7 +31,7 @@
       "type": "Thương Gia",
       "date": "08/01/2023",
       "from": "TP.HCM",
-      "to": "Nha Trang",
+      "to": "Hà Nội",
       "price": 700000,
       "time": "17:30",
       "airline": "Vietjet Air"
